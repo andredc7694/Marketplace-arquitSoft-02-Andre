@@ -1,1 +1,0 @@
-![alt text](estilo_arquitectonico.png)

@@ -1,0 +1,1 @@
+![Estilo arquitectónico](../../img/enfoque_arquitectonico.png)

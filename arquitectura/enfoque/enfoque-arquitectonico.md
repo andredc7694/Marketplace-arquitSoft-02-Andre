@@ -1,1 +1,0 @@
-![alt text](enfoque_arquitectonico.png)
