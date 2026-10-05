@@ -1,0 +1,1 @@
+![Estilo arquitectónico](../../img/diagrama-componentes.png)
